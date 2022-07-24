@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tsugumasa320" target="blank"><img src="https://img.shields.io/twitter/follow/tsugumasa320?logo=twitter&style=for-the-badge" alt="tsugumasa320" /></a> </p>
 
-- 🔭 I’m currently working on **Synthesizer using deep learning**
+- 🔭 I’m currently working on **Synthesizer using deep generative model (my reserch project)**
 
 - 🌱 I’m currently learning **Deep learning & DSP**
 
