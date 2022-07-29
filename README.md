@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/tsugumasa320" target="blank"><img src="https://img.shields.io/twitter/follow/tsugumasa320?logo=twitter&style=for-the-badge" alt="tsugumasa320" /></a> </p>
 
-- 🔭 I’m currently working on **Synthesizer using Deep Generative model (my reserch project)**
-
 - 🌱 I’m currently learning **Deep learning & Digital signal processing**
 
 - 💬 Ask me about **DIY for　Electronic musical instrument (Mechanical design, circuit design, embedded design, and Cycling'74 Max)**
