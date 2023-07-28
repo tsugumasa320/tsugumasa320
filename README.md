@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep learning & Sound synthesis**
 
-- 💬 Ask me about **DIY for　Electronic musical instrument (Mechanical design, circuit design, embedded design, and Cycling'74 Max)**
+- 💬 Ask me about **DIY for　Electronic musical instrument (Mechanical design, circuit design, embedded design, and DSP, Neural Synthesis)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
