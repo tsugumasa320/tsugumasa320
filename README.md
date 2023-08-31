@@ -27,7 +27,7 @@ Fusion360, NX, EAGLE, KiCAD, Processing, Cycling'74 Max, Puredata, JUCE Framewor
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsugumasa320&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsugumasa320&theme=github_dark&utcOffset=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tsugumasa320&theme=onedark&column=8
+[![trophy](https://github-profile-trophy.vercel.app/?username=tsugumasa320&theme=onedark&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
