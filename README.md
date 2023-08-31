@@ -19,9 +19,6 @@
 and
 Fusion360, NX, EAGLE, KiCAD, Processing, Cycling'74 Max, Puredata etc...
 
-![](https://komarev.com/ghpvc/?username=tsugumasa320&color=blue)
-[![Github](https://img.shields.io/github/followers/tsugumasa320?label=Follow&style=social)](https://github.com/tsugumasa320)
-
 <!--
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=tsugumasa320&count_private=true&hide=jupyter%20notebook,html,CSS,Makefile&theme=dark&langs_count=11)
 
@@ -31,6 +28,9 @@ Fusion360, NX, EAGLE, KiCAD, Processing, Cycling'74 Max, Puredata etc...
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsugumasa320&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsugumasa320&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsugumasa320&theme=github_dark&utcOffset=9)
+
+![](https://komarev.com/ghpvc/?username=tsugumasa320&color=blue)
+[![Github](https://img.shields.io/github/followers/tsugumasa320?label=Follow&style=social)](https://github.com/tsugumasa320)
 
 
 <!--
